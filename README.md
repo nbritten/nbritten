@@ -1,4 +1,7 @@
-## Hi there 👋
+## Hi there, I'm Nathaniel Britten 👋
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/nathaniel-britten-453b69127/)
+
 
 <!--
 **nbritten/nbritten** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
