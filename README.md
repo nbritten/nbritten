@@ -1,4 +1,4 @@
-## Hi there, I'm Nat Britten 👋
+## Hi there, I'm Nat 👋
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/nathaniel-britten-453b69127/)
 
