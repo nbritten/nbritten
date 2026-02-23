@@ -1,6 +1,6 @@
 ## Hi there, I'm Nat 👋
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/nathaniel-britten-453b69127/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/nathaniel-britten-453b69127/) [![Blog](https://img.shields.io/badge/Blog-000000?style=flat&logo=googlechrome&logoColor=white)](https://nathanielbritten.com)
 
 My Tech Stack
 
