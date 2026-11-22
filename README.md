@@ -8,10 +8,6 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/nathaniel-britten-453b69127/) [![Blog](https://img.shields.io/badge/Blog-000000?style=flat&logo=googlechrome&logoColor=white)](https://nathanielbritten.com)
 
-My Tech Stack
-
-![F#](https://img.shields.io/badge/F%23-blue?style=flat&logo=fsharp) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)  ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white) ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black) ![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=csharp&logoColor=white) ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white) ![Rust](https://img.shields.io/badge/Rust-000000?style=flat&logo=rust&logoColor=white)
-
 ### Active Projects
 
 - **[MathAtlas.app](https://MathAtlas.app)**
